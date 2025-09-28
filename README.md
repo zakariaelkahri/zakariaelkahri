@@ -1,12 +1,46 @@
-- 👋 Hi, I’m @zakariaelkahri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Zakaria El Kahri 👋
 
-<!---
-zakariaelkahri/zakariaelkahri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Full-Stack & AI Developer** specializing in **web and mobile applications**. I build scalable, high-performance apps using modern technologies and AI-driven solutions.  
+
+I’ve worked on projects like **tournament apps**, **Airbnb-style platforms**, and custom solutions for web & mobile.  
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend
+- **JavaScript**: React, Vue  
+- **HTML/CSS**: HTML5, CSS3, Tailwind, Bootstrap  
+
+### Backend
+- **Node.js**, **Express**  
+- **PHP**: Laravel  
+- **Python**: Django, Flask  
+
+### Databases
+- **Relational**: MySQL, PostgreSQL  
+- **NoSQL**: MongoDB  
+
+### AI & Machine Learning
+- Python: TensorFlow, PyTorch, scikit-learn  
+- NLP, Computer Vision, Predictive Models  
+
+### DevOps & Tools
+- Git, Docker, REST APIs, CI/CD pipelines  
+
+---
+
+## 🌟 Projects Highlights
+- **Tournament App**: Full-featured platform for managing competitive events  
+- **Airbnb-like App**: Booking and listing platform for web & mobile  
+- **AI Solutions**: Custom ML models for recommendations and automation  
+
+---
+
+## 📫 Contact Me
+- **Email:** elkahrizakaria@gmail.com  
+- **LinkedIn:** [My LinkedIn]([https://www.linkedin.com/in/zakariaelkahri](https://www.linkedin.com/in/zakaria-el-kahri-aa8500339/))
+
+---
+
+**Let's build amazing apps together! 🚀**
