@@ -39,7 +39,7 @@ I’ve worked on projects like **tournament apps**, **Airbnb-style platforms**, 
 
 ## 📫 Contact Me
 - **Email:** elkahrizakaria@gmail.com  
-- **LinkedIn:** [My LinkedIn]([https://www.linkedin.com/in/zakariaelkahri](https://www.linkedin.com/in/zakaria-el-kahri-aa8500339/))
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/zakaria-el-kahri-aa8500339/)
 
 ---
 
