@@ -12,8 +12,7 @@ I’ve worked on projects like **tournament apps**, **Airbnb-style platforms**, 
 - **JavaScript**: React, Vue  
 - **HTML/CSS**: HTML5, CSS3, Tailwind, Bootstrap  
 
-### Backend
-- **Node.js**, **Express**  
+### Backend 
 - **PHP**: Laravel  
 - **Python**: FASTAPI  
 
