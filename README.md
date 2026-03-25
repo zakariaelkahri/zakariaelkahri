@@ -15,7 +15,7 @@ I’ve worked on projects like **tournament apps**, **Airbnb-style platforms**, 
 ### Backend
 - **Node.js**, **Express**  
 - **PHP**: Laravel  
-- **Python**: Django, Flask  
+- **Python**: FASTAPI  
 
 ### Databases
 - **Relational**: MySQL, PostgreSQL  
